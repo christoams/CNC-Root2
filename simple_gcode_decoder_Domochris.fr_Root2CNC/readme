@@ -1,0 +1,7 @@
+Surface utile de la Root2 CNC 331x305x120mm (X,Y,Z) (On peut mettre la taille que l'on veut, dans ce cas là il faut modifier les valeur dans le firmware ci dessous)
+Le téléversement ce fait avec l'IDE Arduino
+
+#define CoefX 0.875 //Coefficient mm par tour
+#define CoefY 1 //Coefficient mm par tour
+#define CoefZ 0.05 //Coefficient mm par tour
+#define CoefF 1.14 //Coefficient feedrate
