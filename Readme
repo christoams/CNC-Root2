@@ -1,0 +1,5 @@
+Firmware et interface homme machine pour la Root2 CNC
+Le Firmware et l'interface Python a été écrit a la base pour la CNC open_maker_machine (http://www.mon-club-elec.fr/) et modifié par Domochris.fr pour la Root2 CNC
+Les fichiers de la Root2 CNC http://www.thingiverse.com/thing:1001437
+
+Le script Python a été testé sous Windows et sous Linux, des bug de reception de la carte Arduino on été constaté sous Windows mais résolut sous linux (Xubuntu)
